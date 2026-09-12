@@ -13,11 +13,11 @@ B.Tech CS student (7th sem) building full-stack AI products — currently lookin
 
 ### 🚀 Projects
 
-**FinSight** — AI-powered personal finance web app
-End-to-end finance platform for Indian users: ML-based transaction categorization, budgeting, forecasting, and SIP/loan tracking.
-- 🔧 FastAPI, PostgreSQL, SQLAlchemy, LangGraph, scikit-learn, Prophet
-- 🎨 React, Tailwind, Recharts
-- ☁️ Deployed on Render + Vercel
+**FinSight. [Backend](https://github.com/Ishann1616/finSight) [Frontend](https://github.com/Ishann1616/FinSight-FrontEnd-1)** — AI-powered personal finance platform with automated transaction parsing, budget tracking, spend forecasting, and an AI financial assistant. Built full-stack solo; deployed live on Vercel (frontend) and Render (backend) with a production PostgreSQL database.
+- Backend🔧: FastAPI(Python), PostgreSQL, SQLAlchemy,pdfplumber (automated bank/UPI statement parsing)
+- AI/ML🤖: LangGraph, LangChain, Prophet (time-series forecasting), scikit-learn, ChromaDB (vector store), Hugging Face embeddings, OpenAI/Anthropic/Google Gemini (via LangChain)
+- Frontend🎨: React, React Router, Tailwind CSS, Axios, Recharts
+- Deployed☁️: Vercel (frontend), Render (backend + managed Postgres), GitHub (CI/CD via auto-deploy on push)
 
 **[SentiScope](https://github.com/Ishann1616/sentiment-analyzer)** — Real-time sentiment analyzer
 Built from scratch in 2 weeks while learning Python. Analyzes public opinion on any topic using live news from BBC, NDTV, Times of India, The Hindu, NPR, and NewsAPI — including side-by-side topic comparisons (Trump vs Modi, iPhone vs Samsung, etc).
