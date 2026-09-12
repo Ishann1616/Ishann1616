@@ -26,7 +26,7 @@ Built from scratch in 2 weeks while learning Python. Analyzes public opinion on 
 - 📊 Interactive pie charts with Plotly
 - ⚡ Built and deployed with Python + Streamlit
 
-**Market Mentalist** *(working title)* `🚧 In Progress` — AI-driven multi-agent trading system for US equities
+**[Market Mentalist](https://github.com/Ishann1616/market-intelligence-system)** *(working title)* `🚧 In Progress` — AI-driven multi-agent trading system for US equities
 Independent agents (momentum, mean-reversion, news-sentiment) generate trading signals via different strategies. A manager agent dynamically reallocates trust between them based on rolling performance, adapting to changing market conditions. Validated through walk-forward backtesting (5-year historical data, transaction costs, statistical significance testing) and live paper trading.
 - 🧠 LangGraph + OpenRouter for agent orchestration
 - 🤗 HuggingFace Transformers / DistilBERT for news-sentiment signal
