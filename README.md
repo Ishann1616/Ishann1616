@@ -13,7 +13,7 @@ B.Tech CS student (7th sem) building full-stack AI products — currently lookin
 
 ### 🚀 Projects
 
-**FinSight. [Backend](https://github.com/Ishann1616/finSight) [Frontend](https://github.com/Ishann1616/FinSight-FrontEnd-1)** — AI-powered personal finance platform with automated transaction parsing, budget tracking, spend forecasting, and an AI financial assistant. Built full-stack solo; deployed live on Vercel (frontend) and Render (backend) with a production PostgreSQL database.
+**FinSight. [Backend](https://github.com/Ishann1616/finSight) | [Frontend](https://github.com/Ishann1616/FinSight-FrontEnd-1)** — AI-powered personal finance platform with automated transaction parsing, budget tracking, spend forecasting, and an AI financial assistant. Built full-stack solo; deployed live on Vercel (frontend) and Render (backend) with a production PostgreSQL database.
 - Backend🔧: FastAPI(Python), PostgreSQL, SQLAlchemy,pdfplumber (automated bank/UPI statement parsing)
 - AI/ML🤖: LangGraph, LangChain, Prophet (time-series forecasting), scikit-learn, ChromaDB (vector store), Hugging Face embeddings, OpenAI/Anthropic/Google Gemini (via LangChain)
 - Frontend🎨: React, React Router, Tailwind CSS, Axios, Recharts
