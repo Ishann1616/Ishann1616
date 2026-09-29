@@ -30,7 +30,7 @@ Built from scratch in 2 weeks while learning Python. Analyzes public opinion on 
 Independent agents (momentum, mean-reversion, news-sentiment) generate trading signals via different strategies. A manager agent dynamically reallocates trust between them based on rolling performance, adapting to changing market conditions. Validated through walk-forward backtesting (5-year historical data, transaction costs, statistical significance testing) and live paper trading.
 - 🧠 LangGraph + OpenRouter for agent orchestration
 - 🤗 HuggingFace Transformers / DistilBERT for news-sentiment signal
-- 📈 yfinance for price data, custom Pandas backtesting engine
+- 📈 yfinance for price data, custom Pandas backtesting enginen and stock info
 - 📝 Alpaca API for paper trading
 - 🔧 FastAPI, PostgreSQL, SQLAlchemy, JWT auth
 - 🎨 React + Plotly frontend
